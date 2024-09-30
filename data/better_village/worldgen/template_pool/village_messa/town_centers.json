@@ -1,0 +1,13 @@
+{
+    "name": "better_village:village_messa/town_centers",
+    "fallback": "minecraft:empty",
+    "elements":    [{
+        "weight": 1,
+        "element": {
+            "location": "better_village:village_messa/town_centers/post",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}
