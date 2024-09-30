@@ -7,7 +7,7 @@
         "spread_type": "triangular"
     },
     "structures": [{
-        "structure": "better_village:village_messa",
+        "structure": "mstruct:village_messa",
         "weight": 1
     }]
 }

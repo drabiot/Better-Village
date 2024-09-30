@@ -2,7 +2,7 @@
     "biomes": "minecraft:wooded_badlands",
     "spawn_overrides": {},
     "type": "minecraft:jigsaw",
-    "start_pool": "better_village:village_messa/town_centers",
+    "start_pool": "mstruct:village_messa/town_centers",
     "size": 7,
     "step": "surface_structures",
     "start_height": {
