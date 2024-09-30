@@ -1,10 +1,10 @@
 {
-    "name": "mstruct:village_messa/town_centers",
+    "name": "mstruct:messa_village/town_centers",
     "fallback": "minecraft:empty",
     "elements":    [{
         "weight": 1,
         "element": {
-            "location": "mstruct:village_messa/town_centers/post",
+            "location": "mstruct:messa_village/town_centers/post",
             "processors": "minecraft:empty",
             "projection": "rigid",
             "element_type": "minecraft:single_pool_element"
