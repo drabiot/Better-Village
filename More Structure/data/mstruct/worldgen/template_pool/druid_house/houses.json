@@ -1,0 +1,13 @@
+{
+    "name": "mstruct:druid_house/houses",
+    "fallback": "minecraft:empty",
+    "elements":    [{
+        "weight": 1,
+        "element": {
+            "location": "mstruct:druid_house/houses/druid_house",
+            "processors": "minecraft:empty",
+            "projection": "rigid",
+            "element_type": "minecraft:single_pool_element"
+        }
+    }]
+}
